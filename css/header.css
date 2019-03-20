@@ -1,0 +1,49 @@
+#logohome{
+	float:right;
+	height:130px;
+}
+
+
+.btn-primary{
+	margin-top: 20px;
+	font-family:b-nasim-bold;
+}
+
+#btnSabt:hover {
+    color: #fff;
+    background-color: #dd8b2f;
+    border-color: #dd8b2f;
+}
+
+
+.navbar {
+    border-radius: 4px;
+    height: 50px;
+    margin-top: 65px;
+    background-color: #0063b2;	
+	
+}
+.f-nav{
+		position:fixed;
+		background-color:#0063b2;
+}
+
+#menubar > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #dd8b2f;
+}
+
+#level1{
+	color:white;
+	border-left: 1px solid #f6efef;
+}
+
+
+#menubar{
+    float: right;
+}
+
+
+
+
+

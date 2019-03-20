@@ -1,0 +1,174 @@
+#hm-hdr{
+		min-height: 500px;
+		margin-bottom:10px;
+}
+
+#titrsitecontent{
+	padding-top:50px;
+	font-size: 24px;
+	color: #ffffff;
+	text-shadow: -1px 2px 2px rgba(0,0,0,0.2);
+	text-transform: initial;
+	text-align:center;
+	margin-bottom: 20px;
+
+}
+
+
+.purpose {
+	list-style: none;
+	text-align: center;
+	margin-top: 10px;
+	direction: rtl;
+	margin-left: 60px;
+
+}
+
+
+
+
+.purpose li {
+    color: #fff;
+    font-size: 16px;
+	cursor: pointer;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    margin-right: 15px;
+    background-color: #0063b2(86, 90, 92, 0.5);
+    line-height: 42px;
+    height: 42px;
+    letter-spacing: .5px;
+    text-align: center;
+    width: 140px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.home-search {
+    position: relative;
+    z-index: 1;
+    margin: 30px auto 0;
+    width: 710px;
+    font-size: 12px;
+}
+
+.homeform{
+    margin-top: 10px;
+    background-color: rgba(34, 34, 34, 0.85);
+    padding: 10px;
+    position: relative;
+    width: 700px;
+    height: 117px;
+    direction: rtl;
+
+}
+
+#homeformIn{
+	width:560px;
+	float:right;
+	border:none;
+}
+#form-submit{
+	width: 100px;
+	position: relative;
+	z-index: 1;
+	background-color: #2dcaa8;
+	height: 43px;
+	margin-right: 15px;
+	color: white;
+	font-size: 16px;
+	font-family: iransans;
+	border: none;
+}
+#form-submit:hover{
+		background-color:#1c7f69;
+}
+#homformIn2{
+	margin-right: -1px;
+}
+#price_dropdown{
+	margin-right: -20px;
+	width: 309px;
+}
+#area_dropdown{
+	margin-top:10px;
+	margin-right:10px;
+}
+.slct_arrow_down {
+    background: #fff url(image/arrows.png) no-repeat scroll left 14px;
+}
+
+
+.search{
+    position: relative;
+    height: 117px;
+    
+
+}
+.search2{
+	display:none;
+}
+
+
+
+----------------
+search
+----------------
+
+
+.home-search .combo_box {
+    margin: 10px 0 0 10px;
+}
+.home-search .combo_box.prop_Type {
+    width: calc(30% - 10px);
+    width: webkit-calc(30% - 10px);
+    width: -moz-calc(30% - 10px);
+}
+.home-search .combo_box {
+    margin: 10px 10px 0 0;
+}
+.left {
+    float: right;
+}
+.combo_box {
+    position: relative;
+}
+
+.home-search .slct_arrow_down {
+    background: #fff url(image/arrows.png) no-repeat scroll left 14px;
+}
+.home-search .prop_Type select {
+    margin-top: 0px;
+}
+
+.slct_arrow_down {
+    background: #fff url(image/arrows.png) no-repeat scroll left 14px;
+}
+.slct_arrow_down {
+    background: #fff url(image/arrows.png) no-repeat scroll left 14px;
+    cursor: pointer;
+}
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-color: #fff;
+    height: 44px;
+}
+input[type="text"], input[type="password"], input[type="number"], input[type="tel"], select, textarea {
+    border: 1px solid #9b9b9b;
+    font-size: 14px;
+    border-radius: 2px;
+    color: #222;
+    padding: 0 10px;
+    height: 42px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+	cursor:pointer;
+}
+button, input, select, textarea {
+    font: inherit;
+        font-family: inherit;
+        font-size: inherit;
+    margin: 0;
+        margin-top: 0px;
+}

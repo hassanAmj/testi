@@ -1,0 +1,9 @@
+				@font-face {
+				font-family: 'iransans';
+				src: url('fonts/iransans.eot');
+				src: url('fonts/iransans.eot?#iefix') format('embedded-opentype'),
+					 url('fonts/iransans.woff') format('woff'),
+					 url('fonts/iransans.ttf') format('truetype');
+					 font-weight: normal;
+					 font-style: normal;
+			}

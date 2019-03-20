@@ -1,0 +1,86 @@
+#formInsert{
+	width: 650px;
+	background-color: #eeeff1;
+	background: #fff none repeat scroll 0 0;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+	border-radius: 2px;
+	height:700px;
+	margin-bottom:30px;
+	margin-top:20px;
+	direction: rtl;
+	position: relative;
+	z-index: 1;
+	margin: 30px auto 30px;
+	width: 710px;
+	font-size: 12px;
+	
+}
+#tblFormInsert{
+	font-family:IRANSans-web;
+}
+
+#fomtoper{
+	background: #fff none repeat scroll 0 0;
+
+}
+#titleform{
+	background: #faa61a ;
+	text-align: center;
+	color: #fff;
+    display: block;
+    font-family: B Nazanin;
+    font-size: 18px;
+    font-weight: normal;
+    padding: 11px 24px 7px 96px;
+	height:40px;
+
+}
+
+.divider{
+	font-family:B Nazanin;
+	margin-top: 20px;
+	width: 600px;
+	margin-right: 50px;
+}
+#melk-selected{
+	width: 150px;
+	height: 32px;
+	margin-top: 10px;
+	border-color: #d5d0d0;
+	margin-right: 43px;
+}
+#darkhast-selected{
+	width: 150px;
+	height: 32px;
+	margin-top: 10px;
+	border-color: #d5d0d0;
+	margin-right: 40px;
+}
+.btn-insert{
+	margin-right:414px;
+	background-color: #2dcaa8;
+	margin-top:30px;
+	width: 100px;
+	height: 43px;
+	color: white;font-size: 18px;
+	font-family: B Nazanin;
+	border: none;
+}
+.btn-insert:hover{
+	background-color:#1c7f69;
+}
+.btn-insert2{
+	margin-right:;
+	background-color: #2dcaa8;
+	margin-top:30px;
+	width: 100px;
+	height: 43px;
+	color: white;
+	font-size: 18px;
+	font-family: B Nazanin;
+	border: none;
+}
+.btn-insert2:hover{
+	background-color:#1c7f69;
+}
+
