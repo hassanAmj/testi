@@ -117,7 +117,6 @@ require_once("class/db.php");
 			</section><!--container-->
 			
 			
-				 <h1>Hassan Amjadi</h1>
 			
 			<?php include ("mohtva/footer.php");?>
 		
