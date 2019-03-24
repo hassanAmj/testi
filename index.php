@@ -112,6 +112,9 @@ require_once("class/db.php");
 								</a>
 							</div>
 						</div>
+						<h2>Github</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur ipsem</p>
+						
 				</div>
 		
 			</section><!--container-->
